@@ -1,0 +1,12 @@
+[submodule "clang"]
+	path = clang
+	url = git@github.com:jaopaulolc/clang-tmelide.git
+	branch = gnu-tm-dev
+[submodule "benckmarks-and-libraries"]
+	path = benckmarks-and-libraries
+	url = git@github.com:jaopaulolc/PhTM-Star.git
+	branch = master
+[submodule "llvm"]
+	path = llvm
+	url = git@github.com:jaopaulolc/llvm-tmelide.git
+	branch = gnu-tm-dev
